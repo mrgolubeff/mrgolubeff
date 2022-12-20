@@ -4,8 +4,8 @@
 
 ### Мои проекты:
 - [Foodgram](https://github.com/mrgolubeff/Foodgram). Сайт кулинарных рецептов.
-- [YaTube](https://github.com/mrgolubeff/YaTube). Платформа для блогов.
 - [API for YaMDb](https://github.com/mrgolubeff/YaMDb-API). Каталог произведений искусства.
+- [YaTube](https://github.com/mrgolubeff/YaTube). Платформа для блогов.
 
 ### Мой стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
