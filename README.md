@@ -1,5 +1,4 @@
-<h1 align="center">Привет, я <a href="https://mrgolubeff.t.me/" target="_blank">Владимир</a>!
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Привет, это <a href="https://mrgolubeff.t.me/" target="_blank">Владимир</a>! 👋</h1>
 <h3 align="center">Программирую на языке Python, выпускник Я.Практикума</h3>
 
 ### Мои проекты:
