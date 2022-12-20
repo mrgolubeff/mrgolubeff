@@ -3,8 +3,8 @@
 <h3 align="center">Программирую на языке Python, выпускник Я.Практикума</h3>
 
 ### Мои проекты:
-- Yatube
-- YaMDb
+- YaTube
+- API for YaMDb
 - Foodgram
 
 ### Мой стек:
