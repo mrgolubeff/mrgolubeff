@@ -3,9 +3,9 @@
 <h3 align="center">Программирую на языке Python, выпускник Я.Практикума</h3>
 
 ### Мои проекты:
-- YaTube
-- API for YaMDb
-- Foodgram
+- [YaTube](https://github.com/mrgolubeff/YaTube)
+- [API for YaMDb](https://github.com/mrgolubeff/YaMDb-API)
+- [Foodgram](https://github.com/mrgolubeff/Foodgram)
 
 ### Мой стек:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
