@@ -1,5 +1,5 @@
 <h1 align="center">Привет, это <a href="https://mrgolubeff.t.me/" target="_blank">Владимир</a>!
-<img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f47e.png" height="30"/></h1>
+<img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f680.png" height="30"/></h1>
 <h3 align="center">Программирую на языке Python, выпускник Я.Практикума</h3>
 
 ### Мои проекты:
