@@ -5,7 +5,3 @@
 <h3 align="center">
   I make games with Godot engine, code in Python & GDScript
 </h3>
-
-### About me:
-- My name is Vladimir Golubev
-- I am an orientalist by education
