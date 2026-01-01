@@ -3,5 +3,5 @@
   <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f680.png" height="30"/>
 </h1>
 <h3 align="center">
-  I make games with Godot engine, code in Python & GDScript
+  I make games with Godot engine, code in Python & GDScript. Learning Rust.
 </h3>
