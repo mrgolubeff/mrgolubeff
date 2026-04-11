@@ -1,7 +1,7 @@
-<h1 align="center">
+<h2 align="center">
   Hi, it's <a href="https://mrgolubeff.t.me/" target="_blank">mrgolubeff</a>!
-  <img src="https://emoji.aranja.com/static/emoji-data/img-apple-160/1f680.png" height="30"/>
-</h1>
-<h3 align="center">
-  I make games with Godot engine, code in Python & GDScript. Learning Rust.
-</h3>
+  <img src="https://emoji.aranja.com/emojis/apple/1f36a.png" height="21"/>
+</h2>
+<div align="center">
+  I code in Rust and doing my best to push my skills further. Gamedev enthusiast and math admirer.
+</div>
