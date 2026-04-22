@@ -6,8 +6,22 @@
   I code in Rust and doing my best to push my skills further. Gamedev enthusiast and math admirer.
 </div>
 <br/>
-<div align="left">
+<div align="center">
+  I like the idea of agentic engineering but not at the cost of my own capabilities.
+</div>
+<div align="center">
+  And I don't dislike vibe coding — we've all been there...
+</div>
+<div align="center">
+  <i>Agentic Engineering > Human Coding > Vibe Coding</i>
+</div>
+</div>
+<br/>
+<div align="center">
   It is reasonable during the AI age to label projects by level of AI involvement. So here's my convention. I tag my projects as follows:
+</div>
+<br/>
+<div align="left>
   <ul align="left">
     <li>
       <img src="https://emoji.aranja.com/emojis/apple/1f9d1-1f3fb-200d-1f4bb.png" height="16"/>
@@ -15,11 +29,11 @@
     </li>
     <li>
       <img src="https://emoji.aranja.com/emojis/apple/1f468-1f3fb-200d-2708-fe0f.png" height="16"/>
-      — Pilot. Supervizes agents, makes major architectural decisions and checks the work agents do.
+      — Pilot. Supervizes agents, makes major decisions and checks the work agents do.
     </li>
     <li>
       <img src="https://emoji.aranja.com/emojis/apple/1f916.png" height="16"/>
-      — Robot. Uh-oh, this project heavily relies on AI! Human is in charge of vision. Machine does all the dirty work.
+      — Robot. Human is in charge of vision. Machine decides how to do the dirty work.
     </li>
   </ul>
 </div>
