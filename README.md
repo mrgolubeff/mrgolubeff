@@ -12,9 +12,6 @@
 <div align="center">
   And I don't dislike vibe coding — we've all been there...
 </div>
-<div align="center">
-  <i>Agentic Engineering > Human Coding > Vibe Coding</i>
-</div>
 </div>
 <br/>
 <div align="center">
